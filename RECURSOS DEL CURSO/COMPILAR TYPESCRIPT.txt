@@ -1,0 +1,7 @@
+COMPILAR TYPESCRIPT
+
+En el CMD ir a la direccion del archivo de typeScript que queremos compilar y escribir:
+tsc    + el nombre del archivo.ts
+
+PARA QUE SE TRANSPILE AUTOMATICO
+tsc -w *.ts
